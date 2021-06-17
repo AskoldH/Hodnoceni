@@ -1,0 +1,3 @@
+"# DjangoVYTWebApp" 
+"# Hodnoceni" 
+"# Hodnoceni" 
